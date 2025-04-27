@@ -41,8 +41,10 @@ const Experience = () => {
           (curvePoints[1].z-curvePoints[0].z)/4 -5
         ),
         title: "Manish Kumar Sinha",
-        subtitle: `A hard working full stack web developer. \nBtech CSE 3rd year`,
-        imageUrl:  '/images/profilepicture.jpg'
+        subtitle: ` A hard working full stack web developer. \n Btech CSE 3rd year`,
+        imageUrl:  '/images/profilepicture.jpg',
+        link:`Click here to see my resume`,
+        web: `https://drive.google.com/file/d/1HqGqClWsKto8EmrGD3RF9W-HQh_LpgLI/view?usp=drive_link`
       },
       {
         cameraRailDist: -1,
