@@ -87,7 +87,7 @@ const Experience = () => {
         subtitle: `Built using React & Node \nFully Responsive`,
         imageUrl: '/images/ecommerce.png',
         link: `click here to check it out!`,
-        web: `https://ecommerce.mksinha.online`
+        web: `https://ecommerce.mksinha.info`
       },
       {
         cameraRailDist: -1,
@@ -126,7 +126,7 @@ const Experience = () => {
         subtitle: `Built with React & Firebase. /n Post & Chat Anonymously`,
         imageUrl: `/images/socialmedia.png`,
         link: '    Click here to check it out!',
-        web: `https://socialmedia.mksinha.online`
+        web: `https://socialmedia.mksinha.info`
       },
       {
         cameraRailDist: 1.5,
